@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.login-container {
-    width: 300px;
-    padding: 16px;
-    background-color: rgb(255, 255, 255);
-    margin: 0 auto;
-    margin-top: 100px;
-    box-shadow: 0px 0px 5px 0px grey;
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(99, 96, 96, 0.1);
 }
 
 .input-field {
